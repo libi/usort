@@ -1,4 +1,4 @@
-easy slice
+usort
 ---
 a simpler golang slice sort library based on Go 1.18+ Generics and Go sort library.
 
